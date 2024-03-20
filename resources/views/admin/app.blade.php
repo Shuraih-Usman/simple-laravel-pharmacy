@@ -25,8 +25,8 @@
                         <ul>
                             <li> <a class="current" href="/">Home</a></li>
                             <li> <a href="/category">Category</a></li>
-                            <li> <a href="/doctors">Doctors</a></li>
-                            <li> <a href="/patience">Patience</a></li>
+                            <li> <a href="/product">Medicine</a></li>
+                            <li> <a href="/add-product">Add Medicine</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -50,7 +50,7 @@
                     <h4>Contact Us</h4>
                 <ul>
                     <li><i class="fa fa-phone"></i> +2348140419490</li>
-                    <li><i class="fa fa-envelope"></i> support@apptheme.com</li>
+                    <li><i class="fa fa-envelope"></i> support@Pharmacy.com</li>
                     <li><i class="fa fa-map"></i> Keffi Nassarawa state</li>
                 </ul>
                 </div>
